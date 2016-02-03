@@ -1,0 +1,17 @@
+html {
+	background-color: #f8f8f8;
+}
+body {
+	margin: 40px auto;
+	max-width: 700px;
+	color: #222;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 1em;
+	line-height: 1.6;
+}
+h1 {
+	text-align: center;
+}
+p {
+	text-align: justify;
+}
