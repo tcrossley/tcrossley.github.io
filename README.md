@@ -1,2 +1,2 @@
 # tcrossley.github.io
-Personal Site
+Personal Site, hosted on github pages.
