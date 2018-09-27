@@ -15,3 +15,8 @@ h1 {
 p {
 	text-align: justify;
 }
+
+img {
+	display: block;
+	margin: auto;
+}
